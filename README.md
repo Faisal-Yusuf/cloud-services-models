@@ -1,7 +1,7 @@
-QUESTION ONE: Identify examples of IaaS, PaaS, and SaaS from your daily interactions.
+## QUESTION ONE: Identify examples of IaaS, PaaS, and SaaS from your daily interactions.
 Answer:
 
-# IaaS (Infrastructure as a Service):
+### IaaS (Infrastructure as a Service):
 You control servers, OS, and deployment
 
 Examples of IaaS
@@ -14,7 +14,7 @@ Hosting your Express.js backend on a VPS
 Running MongoDB on a cloud server
 
 
-# PaaS (Platform as a Service)
+### PaaS (Platform as a Service)
 You focus on code, provider handles infrastructure
 
 Examples of PaaS
@@ -26,7 +26,7 @@ Real-life usage:
 Deploying your Node.js app without managing servers
 Auto-scaling apps
 
-# SaaS (Software as a Service)
+### SaaS (Software as a Service)
 Ready-to-use apps via browser
 
 Examples of SaaS
@@ -42,7 +42,7 @@ Storing files
 
 ## QUESTION 2: Research and present the offerings of at least two major cloud providers
 
-# Amazon Web Services (AWS)
+### Amazon Web Services (AWS)
 
 Amazon Web Services
 
@@ -59,7 +59,7 @@ Huge service ecosystem
 Highly scalable
 
 
-# Google Cloud Platform (GCP)
+### Google Cloud Platform (GCP)
 
 Google Cloud Platform
 Key Services:
